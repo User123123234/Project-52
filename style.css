@@ -1,0 +1,134 @@
+img{
+    width: 150px;
+    height: auto;
+    border: 3px solid #bbbb06;
+
+    }
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+align-content: center;
+}
+
+.animals{
+display: flex;
+justify-content: space-between;
+flex-wrap:wrap;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+padding-bottom:30px;
+
+}
+
+body{
+background-color: #FAFCFF;
+
+}
+
+a{
+text-decoration: none;
+}
+
+a:hover{
+color:lightblue;
+}
+
+a:visited{
+color:darkblue;
+}
+
+
+
+.camelimg:hover{
+transform:scale(1.2);
+}
+.camelimg{
+    position: relative;
+    margin-bottom: 20px;
+}
+.camelimg h2{
+position: absolute;
+top:40px;
+left: 35px;  
+}
+
+
+
+.chameleonimg:hover{
+    transform:scale(1.2);
+    }
+    .chameleonimg{
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .chameleonimg h2{
+    position: absolute;
+    top:40px;
+    left: 11px;  
+    }
+
+
+    .cicadaimg:hover{
+        transform:scale(1.2);
+        }
+        .cicadaimg{
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .cicadaimg h2{
+        position: absolute;
+        top:40px;
+        left: 35px;  
+        }
+
+
+
+
+
+        .pandaimg:hover{
+            transform:scale(1.2);
+            }
+            .pandaimg{
+                position: relative;
+                margin-bottom: 20px;
+            }
+            .pandaimg h2{
+            position: absolute;
+            top:40px;
+            left: 42px;  
+            }
+
+
+
+
+
+.pigeonimg:hover{
+ transform:scale(1.2);
+}
+.pigeonimg{
+position: relative;
+margin-bottom: 20px;
+}
+.pigeon h2{
+position: absolute;
+top:45px;
+left: 33px;  
+}
+
+
+
+
+.teddyimg:hover{
+    transform:scale(1.2);
+   }
+   .teddyimg{
+   position: relative;
+   margin-bottom: 20px;
+   }
+   .teddy h2{
+   position: absolute;
+   top:45px;
+   left: 40px;  
+   }
